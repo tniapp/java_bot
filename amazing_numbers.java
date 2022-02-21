@@ -1,3 +1,6 @@
+// This code checks whether you number is even or odd, buzz or duck, and palindromic
+// Duck means positive number that contains zeroes, buzz numbers are numbers that are either divisible by 7 or end with 7
+
 package numbers;
 
 import java.util.Scanner;
